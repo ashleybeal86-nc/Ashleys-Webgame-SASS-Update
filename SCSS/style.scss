@@ -7,8 +7,11 @@ $background-color_3: rgb(160, 244, 120);
 $border-color_1: rgb(83, 175, 19);
 
 body {
-	background-color: $background-color_1;
+    background-image: url("/images/oceanpic.jpg");
+    background-repeat: repeat;
+    background-size: cover;
 }
+
 
 div#gameboard {
 	position: relative;

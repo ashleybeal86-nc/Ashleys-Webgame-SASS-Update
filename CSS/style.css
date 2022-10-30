@@ -1,5 +1,7 @@
 body {
-  background-color: black;
+  background-image: url("/images/oceanpic.jpg");
+  background-repeat: repeat;
+  background-size: cover;
 }
 
 div#gameboard {
