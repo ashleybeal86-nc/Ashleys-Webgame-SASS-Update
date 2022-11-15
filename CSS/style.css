@@ -55,4 +55,15 @@ form input {
   background: url("/images/miss.png") no-repeat center;
 }
 
+figcaption#music {
+  font-size: 2em;
+  color: black;
+  font-size: 2em;
+  text-shadow: 2px 2px rgb(83, 175, 19);
+  font-weight: bolder;
+  text-align: start;
+  text-indent: 2%;
+  color: black;
+}
+
 /*# sourceMappingURL=style.css.map */
